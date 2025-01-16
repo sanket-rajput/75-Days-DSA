@@ -41,59 +41,116 @@ Hello, everyone! 👋 I'm **Sanket Rajput**, and I'm taking on the **75-day chal
 
 
 
-Here's your **weekly plan** for the **Striver's A2Z DSA 75-Day Challenge**, ensuring steady progress while balancing other commitments.  
+
+
+
+
+## **📅 Weekly Plan (Jan 16 - Apr 1, 2025)**
+🚀 **Target:** Complete all **18 steps** in **75 days** → **1.5 to 2 steps per week**  
 
 ---
 
-## **📅 Weekly Plan for Striver's A2Z DSA 75-Day Challenge**  
+### **🗓 Week 1: (Jan 16 - Jan 22, 2025) → Basics & Sorting**  
+🔹 **Step 1:** Learn the Basics (31 Topics)  
+🔹 **Step 2:** Sorting Techniques (7 Topics)  
 
-### **🗓 Week 1: (Jan 16 - Jan 22, 2025) → Basics & Arrays**  
-**📌 Goal:** Build strong fundamentals and develop problem-solving consistency.  
-
-🔹 **Day 1-2 (Jan 16-17):** Learn and practice Basic Math (GCD, LCM, Prime numbers, etc.)  
-🔹 **Day 3-5 (Jan 18-20):** Arrays (Easy-Medium problems, Kadane’s Algo, Two Pointers)  
-🔹 **Day 6-7 (Jan 21-22):** Sorting (Merge Sort, Quick Sort) + Practice 5-6 problems  
-
-**💡 Strategy:**  
-✔ Revise key concepts using notes.  
-✔ Solve **5-7 problems daily** (mix of LeetCode, GFG).  
-✔ **Daily GitHub commits** + **LinkedIn update on Jan 22** summarizing progress.  
+✔ **Daily Goal:** 4-5 concepts + 5-7 problems  
+✔ **End-of-Week Progress:** Basics complete ✅ | Sorting 50% ✅  
+✔ **LinkedIn Update on Jan 22:** Share concepts covered, key learnings  
 
 ---
 
-### **🗓 Week 2: (Jan 23 - Jan 29, 2025) → Searching, Hashing & Strings**  
-**📌 Goal:** Master search techniques and hashing for optimized solutions.  
+### **🗓 Week 2: (Jan 23 - Jan 29, 2025) → Arrays & Binary Search**  
+🔹 **Step 3:** Arrays (40 Problems)  
+🔹 **Step 4:** Binary Search (32 Problems)  
 
-🔹 **Day 8-9 (Jan 23-24):** Binary Search + Advanced Searching problems  
-🔹 **Day 10-11 (Jan 25-26):** Hashing (maps, sets) + Sliding Window  
-🔹 **Day 12-14 (Jan 27-29):** Strings (KMP, Rabin-Karp, Anagrams, Palindromes)  
-
-**💡 Strategy:**  
-✔ Solve **7-8 problems daily**.  
-✔ **End-of-week LinkedIn update on Jan 29** with key learnings.  
+✔ **Daily Goal:** 5-6 problems from Arrays + 4 Binary Search problems  
+✔ **End-of-Week Progress:** Arrays 50% ✅ | Binary Search 30% ✅  
+✔ **LinkedIn Update on Jan 29:** Array techniques & Binary Search tricks  
 
 ---
 
-### **🗓 Week 3: (Jan 30 - Feb 5, 2025) → Recursion & Linked Lists**  
-**📌 Goal:** Strengthen recursion & master Linked Lists.  
+### **🗓 Week 3: (Jan 30 - Feb 5, 2025) → Strings & Linked Lists**  
+🔹 **Step 5:** Strings (15 Problems)  
+🔹 **Step 6:** Linked Lists (31 Problems)  
 
-🔹 **Day 15-17 (Jan 30 - Feb 1):** Recursion (Backtracking, Subsets, Permutations)  
-🔹 **Day 18-21 (Feb 2-5):** Linked List (Reversal, Merging, Cycle Detection)  
-
-**💡 Strategy:**  
-✔ Daily **5-6 problems**.  
-✔ Implement **recursive & iterative** approaches.  
+✔ **Daily Goal:** 3 String problems + 4 Linked List problems  
+✔ **End-of-Week Progress:** Strings ✅ | Linked Lists 40% ✅  
+✔ **LinkedIn Update on Feb 5:** Common String & Linked List patterns  
 
 ---
 
-### **🗓 Week 4: (Feb 6 - Feb 12, 2025) → Stacks & Queues**  
-**📌 Goal:** Understand and apply stacks & queues efficiently.  
+### **🗓 Week 4: (Feb 6 - Feb 12, 2025) → Recursion & Bit Manipulation**  
+🔹 **Step 7:** Recursion (25 Problems)  
+🔹 **Step 8:** Bit Manipulation (18 Problems)  
 
-🔹 **Day 22-24 (Feb 6-8):** Stacks (Monotonic Stack, Next Greater Element)  
-🔹 **Day 25-28 (Feb 9-12):** Queues (Deque, Circular Queue, Sliding Window)  
+✔ **Daily Goal:** 3 Recursion problems + 2 Bit Manipulation problems  
+✔ **End-of-Week Progress:** Recursion 50% ✅ | Bit Manipulation 50% ✅  
+✔ **LinkedIn Update on Feb 12:** Recursion techniques & Bitwise operations  
 
-**💡 Strategy:**  
-✔ Use **visualizations** for Stack/Queue problems.  
-✔ **1-2 hard problems** per day.  
-✔ **Weekly LinkedIn update on Feb 12**.  
+---
 
+### **🗓 Week 5: (Feb 13 - Feb 19, 2025) → Stack, Queue & Sliding Window**  
+🔹 **Step 9:** Stack & Queue (30 Problems)  
+🔹 **Step 10:** Sliding Window & Two Pointer (12 Problems)  
+
+✔ **Daily Goal:** 3 Stack/Queue problems + 2 Sliding Window problems  
+✔ **End-of-Week Progress:** Stack & Queue 50% ✅ | Sliding Window ✅  
+✔ **LinkedIn Update on Feb 19:** Stack/Queue tricks & Two Pointer mastery  
+
+---
+
+### **🗓 Week 6: (Feb 20 - Feb 26, 2025) → Heaps & Greedy Algorithms**  
+🔹 **Step 11:** Heaps (17 Problems)  
+🔹 **Step 12:** Greedy Algorithms (16 Problems)  
+
+✔ **Daily Goal:** 3 Heap problems + 3 Greedy problems  
+✔ **End-of-Week Progress:** Heaps ✅ | Greedy 50% ✅  
+✔ **LinkedIn Update on Feb 26:** Heap properties & Greedy approaches  
+
+---
+
+### **🗓 Week 7: (Feb 27 - Mar 4, 2025) → Trees & Binary Search Trees**  
+🔹 **Step 13:** Binary Trees (39 Problems)  
+🔹 **Step 14:** Binary Search Trees (16 Problems)  
+
+✔ **Daily Goal:** 3 Tree problems + 2 BST problems  
+✔ **End-of-Week Progress:** Trees 50% ✅ | BST 50% ✅  
+✔ **LinkedIn Update on Mar 4:** Tree traversal techniques  
+
+---
+
+### **🗓 Week 8: (Mar 5 - Mar 11, 2025) → Graphs**  
+🔹 **Step 15:** Graphs (54 Problems)  
+
+✔ **Daily Goal:** 5-6 Graph problems  
+✔ **End-of-Week Progress:** Graphs 50% ✅  
+✔ **LinkedIn Update on Mar 11:** Graph algorithms (BFS, DFS, Dijkstra)  
+
+---
+
+### **🗓 Week 9-10: (Mar 12 - Mar 25, 2025) → Dynamic Programming**  
+🔹 **Step 16:** DP (56 Problems)  
+
+✔ **Daily Goal:** 5-6 DP problems  
+✔ **End-of-Week Progress:** DP 50% ✅ | DP 100% ✅ by Mar 25  
+✔ **LinkedIn Update on Mar 18 & Mar 25:** DP tricks & patterns  
+
+---
+
+### **🗓 Week 11: (Mar 26 - Apr 1, 2025) → Tries & Revision**  
+🔹 **Step 17:** Tries (7 Problems)  
+🔹 **Step 18:** Strings (Final Problems & Revision)  
+🔹 **Final Revision & Mock Tests**  
+
+✔ **Daily Goal:** 3 Trie problems + 3 revision problems  
+✔ **Final LinkedIn Update (Apr 1, 2025):** **Challenge Completed! 🎉**  
+
+---
+
+### **🔥 Bonus: Tracking & Automation**  
+📌 **Daily:** Push solutions to **GitHub** (`Strivers-A2Z-DSA-75Days`).  
+📌 **Weekly:** Post progress summary on **LinkedIn**.  
+📌 **Every 15 days:** Identify weak areas & revise.  
+
+Would you like help setting up a **Notion tracker** or **automating commits**? 🚀
