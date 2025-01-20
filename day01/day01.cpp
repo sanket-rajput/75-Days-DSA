@@ -1,4 +1,4 @@
-/*
+
 #include <bits/stdc++.h>  //i/o
 using namespace std;
 
@@ -173,5 +173,3 @@ int main(){
     return 0;
 }
 
-
-*/
