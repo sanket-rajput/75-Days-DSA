@@ -154,3 +154,15 @@ Hello, everyone! 👋 I'm **Sanket Rajput**, and I'm taking on the **75-day chal
 📌 **Every 15 days:** Identify weak areas & revise.  
 
 Would you like help setting up a **Notion tracker** or **automating commits**? 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
