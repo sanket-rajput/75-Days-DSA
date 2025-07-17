@@ -161,8 +161,14 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
