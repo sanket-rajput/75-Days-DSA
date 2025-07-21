@@ -194,4 +194,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
