@@ -164,6 +164,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0189-rotate-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0268-missing-number) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1813-maximum-erasure-value](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1813-maximum-erasure-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0268-missing-number) |
+| [1813-maximum-erasure-value](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1813-maximum-erasure-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,4 +200,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
