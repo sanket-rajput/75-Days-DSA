@@ -166,6 +166,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1813-maximum-erasure-value](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0268-missing-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0268-missing-number) |
 | [1813-maximum-erasure-value](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1813-maximum-erasure-value) |
+| [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,4 +219,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
