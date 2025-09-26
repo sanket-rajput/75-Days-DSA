@@ -172,6 +172,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [0344-reverse-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
