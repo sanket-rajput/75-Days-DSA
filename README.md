@@ -167,6 +167,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1813-maximum-erasure-value](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0268-missing-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0268-missing-number) |
 | [1813-maximum-erasure-value](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1813-maximum-erasure-value) |
 | [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0268-missing-number) |
+| [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,4 +228,12 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
