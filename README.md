@@ -169,6 +169,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0724-find-pivot-index) |
+| [0485-max-consecutive-ones](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
