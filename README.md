@@ -168,6 +168,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
+| [0724-find-pivot-index](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
