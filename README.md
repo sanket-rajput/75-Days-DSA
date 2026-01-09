@@ -170,12 +170,14 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0724-find-pivot-index) |
 | [0485-max-consecutive-ones](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0485-max-consecutive-ones) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0344-reverse-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0268-missing-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0268-missing-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
