@@ -173,6 +173,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0217-contains-duplicate) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0001-two-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0560-subarray-sum-equals-k](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0217-contains-duplicate) |
+| [0001-two-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0001-two-sum) |
 ## Binary Search
 |  |
 | ------- |
