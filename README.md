@@ -249,4 +249,20 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
