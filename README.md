@@ -226,6 +226,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [0344-reverse-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0344-reverse-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Sliding Window
 |  |
 | ------- |
