@@ -212,6 +212,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0371-sum-of-two-integers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0371-sum-of-two-integers) |
 | [0191-number-of-1-bits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -223,6 +224,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
