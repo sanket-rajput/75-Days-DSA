@@ -187,6 +187,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0189-rotate-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0268-missing-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0268-missing-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [0371-sum-of-two-integers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
