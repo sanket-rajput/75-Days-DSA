@@ -211,6 +211,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0268-missing-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0268-missing-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0371-sum-of-two-integers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0371-sum-of-two-integers) |
+| [0191-number-of-1-bits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -254,6 +255,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0191-number-of-1-bits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
