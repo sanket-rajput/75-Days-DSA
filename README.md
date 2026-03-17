@@ -175,6 +175,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0209-minimum-size-subarray-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0001-two-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
