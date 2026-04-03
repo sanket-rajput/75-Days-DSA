@@ -176,6 +176,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0001-two-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1929-concatenation-of-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -293,4 +294,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
