@@ -193,6 +193,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0371-sum-of-two-integers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0371-sum-of-two-integers) |
 | [0002-add-two-numbers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0002-add-two-numbers) |
 | [0396-rotate-function](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0788-rotated-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0788-rotated-digits) |
 ## String
 |  |
 | ------- |
