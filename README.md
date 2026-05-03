@@ -241,6 +241,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [0344-reverse-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0344-reverse-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [0796-rotate-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -312,4 +313,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0002-add-two-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
