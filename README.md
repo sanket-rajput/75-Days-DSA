@@ -65,6 +65,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0189-rotate-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0344-reverse-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0061-rotate-list](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
