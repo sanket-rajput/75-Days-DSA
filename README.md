@@ -58,6 +58,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1929-concatenation-of-array](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1929-concatenation-of-array) |
 | [0396-rotate-function](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0396-rotate-function) |
+| [1861-rotating-the-box](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1861-rotating-the-box) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0344-reverse-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0344-reverse-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0061-rotate-list](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1861-rotating-the-box) |
 ## Math
 |  |
 | ------- |
@@ -199,4 +201,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
