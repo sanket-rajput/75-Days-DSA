@@ -60,6 +60,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0396-rotate-function](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0396-rotate-function) |
 | [1861-rotating-the-box](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1861-rotating-the-box) |
 | [3660-jump-game-ix](https://github.com/sanket-rajput/75-Days-DSA/tree/master/3660-jump-game-ix) |
+| [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0396-rotate-function](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0788-rotated-digits) |
 | [3660-jump-game-ix](https://github.com/sanket-rajput/75-Days-DSA/tree/master/3660-jump-game-ix) |
+| [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
 ## Prefix Sum
 |  |
 | ------- |
