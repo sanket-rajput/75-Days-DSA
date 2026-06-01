@@ -61,6 +61,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1861-rotating-the-box](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1861-rotating-the-box) |
 | [3660-jump-game-ix](https://github.com/sanket-rajput/75-Days-DSA/tree/master/3660-jump-game-ix) |
 | [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0788-rotated-digits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0788-rotated-digits) |
 | [3660-jump-game-ix](https://github.com/sanket-rajput/75-Days-DSA/tree/master/3660-jump-game-ix) |
 | [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0118-pascals-triangle) |
 ## String
 |  |
 | ------- |
