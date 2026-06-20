@@ -62,6 +62,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [3660-jump-game-ix](https://github.com/sanket-rajput/75-Days-DSA/tree/master/3660-jump-game-ix) |
 | [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0118-pascals-triangle) |
+| [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0061-rotate-list](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1861-rotating-the-box) |
+| [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
