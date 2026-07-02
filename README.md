@@ -73,6 +73,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0061-rotate-list](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1861-rotating-the-box) |
 | [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
+| [0151-reverse-words-in-a-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0344-reverse-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0344-reverse-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [0796-rotate-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0796-rotate-string) |
+| [0151-reverse-words-in-a-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
