@@ -63,6 +63,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0118-pascals-triangle) |
 | [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0217-contains-duplicate](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0056-merge-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
