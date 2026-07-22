@@ -64,6 +64,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0118-pascals-triangle](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0118-pascals-triangle) |
 | [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0056-merge-intervals) |
+| [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1861-rotating-the-box](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1861-rotating-the-box) |
 | [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0371-sum-of-two-integers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0371-sum-of-two-integers) |
 | [0191-number-of-1-bits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0338-counting-bits) |
+| [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
