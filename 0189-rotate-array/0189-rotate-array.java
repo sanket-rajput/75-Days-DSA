@@ -1,27 +1,23 @@
 class Solution {
-    // Helper method to reverse a portion of the array
-    private void reverse(int[] arr, int start, int end) {
-        while (start <= end) {
-            int temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
-            start++;
-            end--;
-        }
+    public void rotate(int[] nums, int k) {
+
+       k = k% nums.length;
+       reverse(nums,0,nums.length-1);
+       reverse(nums,0,k-1);
+       reverse(nums,k,nums.length-1);
+        
+        
     }
 
-    // Rotates the array to the right by k elements using the reversal algorithm
-    public void rotate(int[] arr, int k) {
-        int n = arr.length;
-        k = k % n; // Handle if k > n
+    public void reverse(int arr[], int left, int right){
+        while(left<right){
+            int temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
 
-        // Step 1: Reverse first n-k elements
-        reverse(arr, 0, n - k - 1);
-
-        // Step 2: Reverse last k elements
-        reverse(arr, n - k, n - 1);
-
-        // Step 3: Reverse the entire array
-        reverse(arr, 0, n - 1);
+            left++;
+            right--;
+        }
+        
     }
 }
