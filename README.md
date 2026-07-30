@@ -156,6 +156,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Greedy
 |  |
 | ------- |
@@ -248,4 +249,12 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
