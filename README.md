@@ -155,6 +155,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0547-number-of-provinces) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -240,8 +242,10 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
