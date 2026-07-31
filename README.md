@@ -243,6 +243,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1683-invalid-tweets](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1683-invalid-tweets) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1068-product-sales-analysis-i](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1068-product-sales-analysis-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Tree
 |  |
 | ------- |
