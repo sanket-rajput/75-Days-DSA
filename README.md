@@ -77,6 +77,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0125-valid-palindrome](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0796-rotate-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0796-rotate-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [0125-valid-palindrome](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
