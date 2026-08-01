@@ -65,6 +65,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0056-merge-intervals) |
 | [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0128-longest-consecutive-sequence](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0217-contains-duplicate](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0217-contains-duplicate) |
 | [0001-two-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0128-longest-consecutive-sequence](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0547-number-of-provinces) |
+| [0128-longest-consecutive-sequence](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0128-longest-consecutive-sequence) |
 ## Graph Theory
 |  |
 | ------- |
