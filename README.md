@@ -100,6 +100,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0001-two-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0128-longest-consecutive-sequence](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0383-ransom-note](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0151-reverse-words-in-a-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [0125-valid-palindrome](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0169-majority-element](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0383-ransom-note) |
 ## Depth-First Search
 |  |
 | ------- |
