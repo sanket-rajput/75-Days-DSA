@@ -195,10 +195,12 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0547-number-of-provinces) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -259,12 +261,14 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Design
 |  |
 | ------- |
