@@ -79,6 +79,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0151-reverse-words-in-a-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0125-valid-palindrome](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0061-rotate-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
