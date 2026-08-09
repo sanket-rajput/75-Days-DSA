@@ -66,6 +66,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0056-merge-intervals](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0056-merge-intervals) |
 | [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0128-longest-consecutive-sequence](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [3660-jump-game-ix](https://github.com/sanket-rajput/75-Days-DSA/tree/master/3660-jump-game-ix) |
 | [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0198-house-robber) |
 ## String
 |  |
 | ------- |
