@@ -199,6 +199,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
 ## Design
 |  |
 | ------- |
