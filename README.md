@@ -200,6 +200,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -276,6 +278,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -284,4 +287,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0232-implement-queue-using-stacks) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
