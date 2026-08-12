@@ -141,6 +141,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0198-house-robber) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,6 +282,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Design
 |  |
 | ------- |
@@ -291,4 +295,5 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
