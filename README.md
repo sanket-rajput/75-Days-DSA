@@ -210,6 +210,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0547-number-of-provinces) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Union-Find
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0110-balanced-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Design
 |  |
 | ------- |
