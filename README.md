@@ -91,6 +91,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0396-rotate-function](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [0069-sqrtx](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0209-minimum-size-subarray-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0069-sqrtx](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -296,4 +298,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
